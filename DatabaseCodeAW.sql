@@ -1,4 +1,4 @@
---These are the SQL queries used to cleanse the tables and prepare them for loading
+--These are the SQL queries from SQL Server Management Studio used to cleanse the tables and prepare them for loading
 
 --DIM_Products Table Cleansed
 SELECT p.[ProductKey]
