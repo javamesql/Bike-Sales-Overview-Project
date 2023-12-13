@@ -1,4 +1,4 @@
-# My Interactive Sales Dashboard Project Involving a Mock Business Request, Brief Analysis, and a Visualization if Viewer Doesn't Have Power BI. 
+# My Interactive Sales Dashboard Project Involving a Mock Business Request, a Brief Analysis, and Visualizations. 
 
 <h2>Observations</h2>
 
